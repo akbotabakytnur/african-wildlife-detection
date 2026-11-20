@@ -1,6 +1,6 @@
 
 # African Wildlife Object Detection 
-[![Open In Colab] https://colab.research.google.com/drive/13-4UtanJNW9sFSWNaXYEanUjR8uq1bSG?usp=sharing
+[![Open In Colab](https://colab.research.google.com/drive/13-4UtanJNW9sFSWNaXYEanUjR8uq1bSG?usp=sharing)
 
 ## 1. Task Description
 This repository provides a reproducible Google Colab pipeline to fine-tune a pretrained object detector (**YOLOv8n**) on the **African Wildlife** dataset, perform a controlled hyperparameter experiment, evaluate the selected model on a held-out test set, and analyze failure cases.
